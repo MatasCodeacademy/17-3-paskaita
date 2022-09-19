@@ -7,7 +7,7 @@ const masyvas3 = [
 ];
 
 let naujasMasyvas = [];
-
+let naujasMasyvas3 = [];
 let masyvas2Surusuotas = masyvas2.sort((item1, item2) => item1 - item2);
 
 for (let i = 0; i < masyvas2Surusuotas.length; i++) {
