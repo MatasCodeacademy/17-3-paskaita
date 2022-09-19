@@ -6,6 +6,11 @@ const masyvas3 = [
 	1, 1, 1, 1, 1, 8, 8, 8, 8, 9, 11, 10, 11, 12, 12, 12, 13, 131, 3,
 ];
 
+
+const masyvas4 = [
+	1, 1, 1, 1, 1, 8, 8, 8, 8, 9, 11, 10, 11, 12, 12, 12, 13, 131, 3,
+];
+
 let naujasMasyvas = [];
 let naujasMasyvas3 = [];
 let masyvas2Surusuotas = masyvas2.sort((item1, item2) => item1 - item2);
